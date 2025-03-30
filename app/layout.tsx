@@ -8,11 +8,16 @@ import Footer from "@/components/footer"
 
 const inter = Inter({ subsets: ["latin"] })
 
-// Update the metadata with Indian branding
+
 export const metadata: Metadata = {
   title: "BuildMaster India - Premium Building Materials",
   description: "Your trusted source for high-quality building materials and supplies in India",
-    generator: 'v0.dev'
+  generator: 'v0.dev',
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
+  }
 }
 
 export default function RootLayout({
@@ -34,7 +39,3 @@ export default function RootLayout({
     </html>
   )
 }
-
-
-
-import './globals.css'
