@@ -117,7 +117,7 @@ export default function Footer() {
 
         <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} BuildMaster. All rights reserved.
+            © {new Date().getFullYear()} BuildMaster. All rights reserved. Devloped by Tech Titans.
           </p>
           <div className="flex gap-4 text-sm">
             <Link href="/privacy-policy" className="text-muted-foreground hover:text-primary">
