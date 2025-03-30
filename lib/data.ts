@@ -502,7 +502,7 @@ const teamMembers: TeamMember[] = [
     id: "tm7",
     name: "Rahul Verma",
     position: "Product Specialist",
-    avatar: "/placeholder.svg?height=300&width=300&text=RV", // Replace with professional headshot of an Indian product specialist
+    avatar: "/avatar.svg?height=300&width=300&text=RV", // Replace with professional headshot of an Indian product specialist
     socialLinks: {
       linkedin: "https://linkedin.com/in/rahulverma",
     },
