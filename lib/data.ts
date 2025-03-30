@@ -421,7 +421,7 @@ const specialOffers: SpecialOffer[] = [
     originalPrice: 4499,
     discountedPrice: 4499,
     discountPercentage: 0,
-    image: "/paint.svg?height=300&width=600&text=Paint+Promotion", // Replace with image of paint buckets with free brushes and rollers
+    image: "/insulation_products.svg?height=300&width=600&text=Paint+Promotion", // Replace with image of paint buckets with free brushes and rollers
     startDate: "2025-06-15",
     endDate: "2025-07-15",
   },
